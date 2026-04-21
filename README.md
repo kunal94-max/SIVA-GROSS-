@@ -33,4 +33,4 @@ Geographical Intelligence: Identified the United States as the primary revenue d
 Profitability Tracking: The "Total Sale vs. Sum of Profit" gauge provides an instant health check on business efficiency.
 screenshots 
 show what the dashboard look like .
-Example: Screenshot 2026-04-21 160108.png
+Example: https://github.com/kunal94-max/SIVA-GROSS-/blob/main/Screenshot%202026-04-21%20160108.png
