@@ -31,3 +31,4 @@ Discount Sensitivity Analysis: The dashboard reveals how different discount tier
 Geographical Intelligence: Identified the United States as the primary revenue driver, while spotting growth opportunities in the Mexico and Germany markets.
 
 Profitability Tracking: The "Total Sale vs. Sum of Profit" gauge provides an instant health check on business efficiency.
+screenshot ; Screenshot 2026-04-21 160108.png
